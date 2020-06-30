@@ -1,0 +1,55 @@
+\ProvidesPackage{Format}
+\usepackage{import} 		% Allow importing of .tex pages
+\usepackage[paperwidth=7in, paperheight=10in, margin = 1in]{geometry} 	% Set page dimensions
+\usepackage{xcolor}         % Text color
+\usepackage{fancyhdr}       % Headers and Footers
+\usepackage{tocloft}        % Table of Contents pagestyle
+\usepackage[font={small}]{caption} % Small font size for captions
+\usepackage{wrapfig}		% Allows for text around photos
+\usepackage[symbol]{footmisc}% Creates footnotes
+\usepackage{setspace}
+\usepackage{subcaption}
+\usepackage{mathtools}
+\usepackage{hyperref}       % Clickable/Colored Links
+\usepackage{float} 			% Used for forcing floating pictures
+% Hypperref Settings
+\hypersetup{
+	colorlinks=true,        % false: boxed links; true: colored links
+	linkcolor=black,        % color of internal links
+	citecolor=black,        % color of links to bibliography
+	filecolor=magenta,      % color of file links
+	urlcolor=black         
+}
+
+\usepackage[semicolon,round,sort&compress,sectionbib]{natbib}  	% Used for separate citations per Chapter
+\usepackage{chapterbib}                                        	% Same as above
+\renewcommand{\bibsection}{\section{References}}  				% Rename the Biblography title
+
+
+% All packages for tikz photos
+\usepackage{physics}
+\usepackage{amsmath}
+\usepackage{tikz}
+\usepackage{mathdots}
+\usepackage{yhmath}
+\usepackage{cancel}
+\usepackage{color}
+\usepackage{siunitx}
+\usepackage{array}
+\usepackage{multirow}
+\usepackage{amssymb}
+\usepackage{gensymb}
+\usepackage{tabularx}
+\usepackage{booktabs}
+\usetikzlibrary{fadings}
+\usetikzlibrary{patterns}
+\usetikzlibrary{shadows.blur}
+\usetikzlibrary{shapes}
+% All packages for tikz photos
+
+
+\setlength{\parindent}{0cm} 		% Turn off paragraph indents
+\setlength{\headheight}{13.6pt} 	% Stop error for page consistencies 
+\setlength{\cftbeforetoctitleskip}{-3em} 	% Removes the large space before table of contents
+\setlength{\cftbeforeloftitleskip}{-3em} 	% Removes the large space before list of figures
+\renewcommand{\thefootnote}{\fnsymbol{footnote}}	% Symbolic footnotes

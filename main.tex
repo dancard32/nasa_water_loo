@@ -1,0 +1,32 @@
+\documentclass[11pt, oneside]{book}
+\usepackage{Format}
+\usepackage{graphicx}
+\usepackage{lipsum}
+
+
+\pagestyle{fancy}
+\fancyhf{}
+\fancyhead[LE, RO]{\nouppercase{\leftmark}}
+\fancyhead[RE, LO]{\nouppercase{\rightmark}}
+\fancyfoot[R]{Page \thepage}
+\fancyfoot[L]{\textbf{University of Michigan - Ann Arbor}}
+\singlespacing
+
+\begin{document}
+
+    \import{administrative/}{coverpage.tex}
+    \import{administrative/}{toc_page.tex}
+    \import{rep/}{intro.tex}
+
+    
+\end{document}
+
+    %\pagebreak
+    %\chapter[Chapter title]{}\vspace{-2cm}\noindent\rule{\textwidth}{2.5pt}
+    %\thispagestyle{empty}
+    %
+    %\vspace{5cm}\textbf{\huge{Chapter title}}
+    %
+    %\medskip\noindent\rule{\textwidth}{1pt}
+    %
+    %\lipsum[1-3]
