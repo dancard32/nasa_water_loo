@@ -7,6 +7,7 @@
 \usepackage[font={small}]{caption} % Small font size for captions
 \usepackage{wrapfig}		% Allows for text around photos
 \usepackage[symbol]{footmisc}% Creates footnotes
+\usepackage{enumitem}
 \usepackage{setspace}
 \usepackage{subcaption}
 \usepackage{mathtools}
@@ -28,33 +29,32 @@
 
 
 % All packages for tikz photos
-\usepackage{physics}
-\usepackage{amsmath}
-\usepackage{tikz}
-\usepackage{mathdots}
-\usepackage{yhmath}
-\usepackage{cancel}
-\usepackage{color}
-\usepackage{siunitx}
-\usepackage{array}
-\usepackage{multirow}
-\usepackage{amssymb}
-\usepackage{gensymb}
-\usepackage{tabularx}
-\usepackage{booktabs}
-\usetikzlibrary{fadings}
-\usetikzlibrary{patterns}
-\usetikzlibrary{shadows.blur}
-\usetikzlibrary{shapes}
+%\usepackage{physics}
+%\usepackage{amsmath}
+%\usepackage{tikz}
+%\usepackage{mathdots}
+%\usepackage{yhmath}
+%\usepackage{cancel}
+%\usepackage{color}
+%\usepackage{siunitx}
+%\usepackage{array}
+%\usepackage{multirow}
+%\usepackage{amssymb}
+%\usepackage{gensymb}
+%\usepackage{tabularx}
+%\usepackage{booktabs}
+%\usetikzlibrary{fadings}
+%\usetikzlibrary{patterns}
+%\usetikzlibrary{shadows.blur}
+%\usetikzlibrary{shapes}
 % All packages for tikz photos
 
 
-\setlength{\parindent}{0cm} 		% Turn off paragraph indents
-\setlength{\parskip}{1em}			% Paragraph spacing
 \setlength{\headheight}{13.6pt} 	% Stop error for page consistencies 
 \setlength{\cftbeforetoctitleskip}{-3em} 	% Removes the large space before table of contents
 \setlength{\cftbeforeloftitleskip}{-3em} 	% Removes the large space before list of figures
 \renewcommand{\thefootnote}{\fnsymbol{footnote}}	% Symbolic footnotes
-\setlength{\itemsep}{0pt}%
-\setlength{\parskip}{0pt} % Change spacing between bulleted lists
-\renewcommand{\labelitemi}{$\circ$}
+\setlist{nosep}						% Removes item separation for bulleted lists
+\renewcommand{\labelitemi}{$\circ$}	% Set bullets to circles
+\setlength{\parindent}{0cm} 		% Turn off paragraph indents
+\setlength{\parskip}{1em}			% Paragraph spacing
