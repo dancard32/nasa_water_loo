@@ -21,9 +21,10 @@
 	urlcolor=black         
 }
 
-\usepackage[semicolon,round,sort&compress,sectionbib]{natbib}  	% Used for separate citations per Chapter
-\usepackage{chapterbib}                                        	% Same as above
-\renewcommand{\bibsection}{\section{References}}  				% Rename the Biblography title
+\usepackage[backend=bibtex,style=verbose-trad2]{biblatex}
+\bibliography{mybib}
+\renewcommand{\bibname}{References}
+
 
 
 % All packages for tikz photos
@@ -49,6 +50,7 @@
 
 
 \setlength{\parindent}{0cm} 		% Turn off paragraph indents
+\setlength{\parskip}{1em}			% Paragraph spacing
 \setlength{\headheight}{13.6pt} 	% Stop error for page consistencies 
 \setlength{\cftbeforetoctitleskip}{-3em} 	% Removes the large space before table of contents
 \setlength{\cftbeforeloftitleskip}{-3em} 	% Removes the large space before list of figures
