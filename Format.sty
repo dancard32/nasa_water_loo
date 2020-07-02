@@ -22,10 +22,11 @@
 	urlcolor=black         
 }
 
-\usepackage[backend=bibtex,style=verbose-trad2]{biblatex}
-\bibliography{mybib}
-\renewcommand{\bibname}{References}
+\usepackage{etoolbox}		% Used for quotes
+\AtBeginEnvironment{quote}{\singlespacing\small}	% Used for quotes
 
+\usepackage{biblatex}
+\bibliography{mybib}
 
 
 % All packages for tikz photos

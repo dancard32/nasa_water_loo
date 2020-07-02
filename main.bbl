@@ -3,8 +3,8 @@
 % Do not modify the above lines!
 %
 % This is an auxiliary file used by the 'biblatex' package.
-% This file may safely be deleted. It will be recreated as
-% required.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
 %
 \begingroup
 \makeatletter
@@ -16,25 +16,59 @@
   {}
 \endgroup
 
-\datalist[entry]{nty/global//global/global}
-  \entry{iss_background}{article}{}
-    \name{author}{1}{}{%
-      {{hash=MCL}{%
-         family={Mansfield},
-         familyi={M\bibinitperiod},
-         given={Cheryl\bibnamedelima L.},
-         giveni={C\bibinitperiod\bibinitdelim L\bibinitperiod},
-      }}%
-    }
-    \strng{namehash}{MCL1}
-    \strng{fullhash}{MCL1}
-    \field{labelnamesource}{author}
-    \field{labeltitlesource}{title}
-    \field{sortinit}{M}
-    \field{sortinithash}{M}
-    \field{title}{Behind The Scences}
-    \field{journaltitle}{International Space Station}
-    \field{year}{2008}
-  \endentry
-\enddatalist
+
+\refsection{0}
+  \datalist[entry]{nty/global//global/global}
+    \entry{iss_background}{article}{}
+      \name{author}{1}{}{%
+        {{hash=e3d9f4e056fb25c4423a696f6f6788f2}{%
+           family={Mansfield},
+           familyi={M\bibinitperiod},
+           given={Cheryl\bibnamedelima L.},
+           giveni={C\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+      }
+      \strng{namehash}{e3d9f4e056fb25c4423a696f6f6788f2}
+      \strng{fullhash}{e3d9f4e056fb25c4423a696f6f6788f2}
+      \strng{bibnamehash}{e3d9f4e056fb25c4423a696f6f6788f2}
+      \strng{authorbibnamehash}{e3d9f4e056fb25c4423a696f6f6788f2}
+      \strng{authornamehash}{e3d9f4e056fb25c4423a696f6f6788f2}
+      \strng{authorfullhash}{e3d9f4e056fb25c4423a696f6f6788f2}
+      \field{sortinit}{M}
+      \field{sortinithash}{2e5c2f51f7fa2d957f3206819bf86dc3}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{International Space Station}
+      \field{title}{Behind The Scences}
+      \field{year}{2008}
+    \endentry
+    \entry{apollo_bathroom}{inbook}{}
+      \name{author}{1}{}{%
+        {{hash=0c553f67e1b42d245fbbe0eaa756c69d}{%
+           family={Sauer},
+           familyi={S\bibinitperiod},
+           given={Richard\bibnamedelima L.},
+           giveni={R\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Lyndon B. Johnson Space Center}%
+      }
+      \strng{namehash}{0c553f67e1b42d245fbbe0eaa756c69d}
+      \strng{fullhash}{0c553f67e1b42d245fbbe0eaa756c69d}
+      \strng{bibnamehash}{0c553f67e1b42d245fbbe0eaa756c69d}
+      \strng{authorbibnamehash}{0c553f67e1b42d245fbbe0eaa756c69d}
+      \strng{authornamehash}{0c553f67e1b42d245fbbe0eaa756c69d}
+      \strng{authorfullhash}{0c553f67e1b42d245fbbe0eaa756c69d}
+      \field{sortinit}{S}
+      \field{sortinithash}{c319cff79d99c853d775f88277d4e45f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{chapter}{2}
+      \field{title}{SP-368 Biomedical Results of Apollo}
+      \field{year}{1975}
+      \field{pages}{469\bibrangedash 484}
+      \range{pages}{16}
+    \endentry
+  \enddatalist
+\endrefsection
 \endinput
+
