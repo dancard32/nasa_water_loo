@@ -1,252 +1,258 @@
-PWD /home/dcard/Dev/Career/nasa_water_loo
-INPUT /etc/texmf/web2c/texmf.cnf
-INPUT /usr/share/texmf/web2c/texmf.cnf
-INPUT /usr/share/texlive/texmf-dist/web2c/texmf.cnf
-INPUT /var/lib/texmf/web2c/pdftex/pdflatex.fmt
-INPUT /home/dcard/Dev/Career/nasa_water_loo/main.tex
-OUTPUT /home/dcard/Dev/Career/nasa_water_loo/main.log
-INPUT /usr/share/texlive/texmf-dist/tex/latex/base/book.cls
-INPUT /usr/share/texlive/texmf-dist/tex/latex/base/book.cls
-INPUT /usr/share/texlive/texmf-dist/tex/latex/base/bk11.clo
-INPUT /usr/share/texlive/texmf-dist/tex/latex/base/bk11.clo
-INPUT /usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map
-INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmr10.tfm
-INPUT /home/dcard/Dev/Career/nasa_water_loo/Format.sty
-INPUT /home/dcard/Dev/Career/nasa_water_loo/Format.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/import/import.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/import/import.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/geometry/geometry.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/geometry/geometry.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
-INPUT /usr/share/texlive/texmf-dist/tex/generic/iftex/ifvtex.sty
-INPUT /usr/share/texlive/texmf-dist/tex/generic/iftex/ifvtex.sty
-INPUT /usr/share/texlive/texmf-dist/tex/generic/iftex/iftex.sty
-INPUT /usr/share/texlive/texmf-dist/tex/generic/iftex/iftex.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/color.cfg
-INPUT /usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/color.cfg
-INPUT /usr/share/texlive/texmf-dist/tex/latex/graphics-def/pdftex.def
-INPUT /usr/share/texlive/texmf-dist/tex/latex/graphics-def/pdftex.def
-INPUT /usr/share/texlive/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/tocloft/tocloft.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/tocloft/tocloft.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/caption/caption.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/caption/caption.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/caption/caption3.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/caption/caption3.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/wrapfig/wrapfig.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/wrapfig/wrapfig.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/footmisc/footmisc.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/footmisc/footmisc.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/enumitem/enumitem.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/enumitem/enumitem.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/setspace/setspace.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/setspace/setspace.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/caption/subcaption.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/caption/subcaption.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/mathtools/mathtools.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/mathtools/mathtools.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/tools/calc.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/tools/calc.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/mathtools/mhsetup.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/mathtools/mhsetup.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/amsmath/amstext.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/amsmath/amstext.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref.sty
-INPUT /usr/share/texlive/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
-INPUT /usr/share/texlive/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/pdftexcmds/pdftexcmds.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/pdftexcmds/pdftexcmds.sty
-INPUT /usr/share/texlive/texmf-dist/tex/generic/infwarerr/infwarerr.sty
-INPUT /usr/share/texlive/texmf-dist/tex/generic/infwarerr/infwarerr.sty
-INPUT /usr/share/texlive/texmf-dist/tex/generic/kvsetkeys/kvsetkeys.sty
-INPUT /usr/share/texlive/texmf-dist/tex/generic/kvsetkeys/kvsetkeys.sty
-INPUT /usr/share/texlive/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
-INPUT /usr/share/texlive/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
-INPUT /usr/share/texlive/texmf-dist/tex/generic/pdfescape/pdfescape.sty
-INPUT /usr/share/texlive/texmf-dist/tex/generic/pdfescape/pdfescape.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/hycolor/hycolor.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/hycolor/hycolor.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/letltxmacro/letltxmacro.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/letltxmacro/letltxmacro.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/auxhook/auxhook.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/auxhook/auxhook.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/kvoptions/kvoptions.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/kvoptions/kvoptions.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/hyperref/pd1enc.def
-INPUT /usr/share/texlive/texmf-dist/tex/latex/hyperref/pd1enc.def
-INPUT /usr/share/texlive/texmf-dist/tex/generic/intcalc/intcalc.sty
-INPUT /usr/share/texlive/texmf-dist/tex/generic/intcalc/intcalc.sty
-INPUT /usr/share/texlive/texmf-dist/tex/generic/etexcmds/etexcmds.sty
-INPUT /usr/share/texlive/texmf-dist/tex/generic/etexcmds/etexcmds.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/url/url.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/url/url.sty
-INPUT /usr/share/texlive/texmf-dist/tex/generic/bitset/bitset.sty
-INPUT /usr/share/texlive/texmf-dist/tex/generic/bitset/bitset.sty
-INPUT /usr/share/texlive/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty
-INPUT /usr/share/texlive/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty
-INPUT /usr/share/texlive/texmf-dist/tex/generic/atbegshi/atbegshi.sty
-INPUT /usr/share/texlive/texmf-dist/tex/generic/atbegshi/atbegshi.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/hyperref/hpdftex.def
-INPUT /usr/share/texlive/texmf-dist/tex/latex/hyperref/hpdftex.def
-INPUT /usr/share/texlive/texmf-dist/tex/latex/atveryend/atveryend.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/atveryend/atveryend.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
-INPUT /usr/share/texlive/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty
-INPUT /usr/share/texlive/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/float/float.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/float/float.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/etoolbox/etoolbox.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/etoolbox/etoolbox.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/biblatex/biblatex.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/biblatex/biblatex.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/logreq/logreq.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/logreq/logreq.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/logreq/logreq.def
-INPUT /usr/share/texlive/texmf-dist/tex/latex/logreq/logreq.def
-INPUT /usr/share/texlive/texmf-dist/tex/latex/base/ifthen.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/base/ifthen.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/biblatex/blx-dm.def
-INPUT /usr/share/texlive/texmf-dist/tex/latex/biblatex/blx-dm.def
-INPUT /usr/share/texlive/texmf-dist/tex/latex/biblatex/blx-compat.def
-INPUT /usr/share/texlive/texmf-dist/tex/latex/biblatex/blx-compat.def
-INPUT /usr/share/texlive/texmf-dist/tex/latex/biblatex/biblatex.def
-INPUT /usr/share/texlive/texmf-dist/tex/latex/biblatex/biblatex.def
-INPUT /usr/share/texlive/texmf-dist/tex/latex/biblatex/bbx/numeric.bbx
-INPUT /usr/share/texlive/texmf-dist/tex/latex/biblatex/bbx/numeric.bbx
-INPUT /usr/share/texlive/texmf-dist/tex/latex/biblatex/bbx/standard.bbx
-INPUT /usr/share/texlive/texmf-dist/tex/latex/biblatex/bbx/standard.bbx
-INPUT /usr/share/texlive/texmf-dist/tex/latex/biblatex/cbx/numeric.cbx
-INPUT /usr/share/texlive/texmf-dist/tex/latex/biblatex/cbx/numeric.cbx
-INPUT /usr/share/texlive/texmf-dist/tex/latex/biblatex/biblatex.cfg
-INPUT /usr/share/texlive/texmf-dist/tex/latex/biblatex/biblatex.cfg
-INPUT /usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
-INPUT /usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
-INPUT /usr/share/texlive/texmf-dist/tex/latex/lipsum/lipsum.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/lipsum/lipsum.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/l3kernel/expl3.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/l3kernel/expl3.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdfmode.def
-INPUT /usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdfmode.def
-INPUT /usr/share/texlive/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/lipsum/lipsum.ltd.tex
-INPUT /usr/share/texlive/texmf-dist/tex/latex/lipsum/lipsum.ltd.tex
-INPUT /home/dcard/Dev/Career/nasa_water_loo/main.aux
-INPUT /home/dcard/Dev/Career/nasa_water_loo/main.aux
-OUTPUT /home/dcard/Dev/Career/nasa_water_loo/main.aux
-INPUT /usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
-INPUT /usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
-INPUT /usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
-INPUT /usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
-INPUT /usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/refcount/refcount.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/refcount/refcount.sty
-INPUT /usr/share/texlive/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
-INPUT /usr/share/texlive/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
-INPUT /home/dcard/Dev/Career/nasa_water_loo/main.out
-INPUT /home/dcard/Dev/Career/nasa_water_loo/main.out
-INPUT /home/dcard/Dev/Career/nasa_water_loo/main.out
-INPUT /home/dcard/Dev/Career/nasa_water_loo/main.out
-OUTPUT /home/dcard/Dev/Career/nasa_water_loo/main.pdf
-INPUT /home/dcard/Dev/Career/nasa_water_loo/main.out
-INPUT /home/dcard/Dev/Career/nasa_water_loo/main.out
-OUTPUT /home/dcard/Dev/Career/nasa_water_loo/main.out
-INPUT /usr/share/texlive/texmf-dist/tex/latex/biblatex/lbx/english.lbx
-INPUT /usr/share/texlive/texmf-dist/tex/latex/biblatex/lbx/english.lbx
-OUTPUT /home/dcard/Dev/Career/nasa_water_loo/main.bcf
-INPUT /home/dcard/Dev/Career/nasa_water_loo/main.bbl
-INPUT /home/dcard/Dev/Career/nasa_water_loo/main.bbl
-INPUT /home/dcard/Dev/Career/nasa_water_loo/main.bbl
-INPUT /home/dcard/Dev/Career/nasa_water_loo/administrative/coverpage.tex
-INPUT /home/dcard/Dev/Career/nasa_water_loo/administrative/coverpage.tex
-INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmbx10.tfm
-INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm
-INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmr8.tfm
-INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmr6.tfm
-INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmmi10.tfm
-INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmmi8.tfm
-INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmmi6.tfm
-INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmsy10.tfm
-INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmsy8.tfm
-INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmsy6.tfm
-INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmex10.tfm
-INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex8.tfm
-INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm
-INPUT /usr/share/texlive/texmf-dist/fonts/tfm/jknappen/ec/tcrm0800.tfm
-INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmr9.tfm
-INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmmi9.tfm
-INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmsy9.tfm
-INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex9.tfm
-INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm
-INPUT /usr/share/texlive/texmf-dist/fonts/tfm/jknappen/ec/tcrm0600.tfm
-INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmti10.tfm
-INPUT /home/dcard/Dev/Career/nasa_water_loo/administrative/nasa-logo-web-rgb.png
-INPUT /home/dcard/Dev/Career/nasa_water_loo/administrative/nasa-logo-web-rgb.png
-INPUT /home/dcard/Dev/Career/nasa_water_loo/administrative/nasa-logo-web-rgb.png
-INPUT /home/dcard/Dev/Career/nasa_water_loo/administrative/toc_page.tex
-INPUT /home/dcard/Dev/Career/nasa_water_loo/administrative/toc_page.tex
-INPUT /var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map
-INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmr17.tfm
-INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm
-INPUT /home/dcard/Dev/Career/nasa_water_loo/main.toc
-INPUT /home/dcard/Dev/Career/nasa_water_loo/main.toc
-OUTPUT /home/dcard/Dev/Career/nasa_water_loo/main.toc
-INPUT /home/dcard/Dev/Career/nasa_water_loo/main.lof
-INPUT /home/dcard/Dev/Career/nasa_water_loo/main.lof
-OUTPUT /home/dcard/Dev/Career/nasa_water_loo/main.lof
-INPUT /home/dcard/Dev/Career/nasa_water_loo/rep/intro.tex
-INPUT /home/dcard/Dev/Career/nasa_water_loo/rep/intro.tex
-INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmr17.tfm
-INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm
-INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmr12.tfm
-INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm
-INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmr12.tfm
-INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm
-INPUT /home/dcard/Dev/Career/nasa_water_loo/figs/apollo_urine_bag.jpg
-INPUT /home/dcard/Dev/Career/nasa_water_loo/figs/apollo_urine_bag.jpg
-INPUT /home/dcard/Dev/Career/nasa_water_loo/figs/apollo_urine_bag.jpg
-INPUT /home/dcard/Dev/Career/nasa_water_loo/figs/apollo_fecal_bag.jpg
-INPUT /home/dcard/Dev/Career/nasa_water_loo/figs/apollo_fecal_bag.jpg
-INPUT /home/dcard/Dev/Career/nasa_water_loo/figs/apollo_fecal_bag.jpg
-INPUT /home/dcard/Dev/Career/nasa_water_loo/rep/challenge_overview.tex
-INPUT /home/dcard/Dev/Career/nasa_water_loo/rep/challenge_overview.tex
-INPUT /home/dcard/Dev/Career/nasa_water_loo/rep/challenge_submission.tex
-INPUT /home/dcard/Dev/Career/nasa_water_loo/rep/challenge_submission.tex
-INPUT /home/dcard/Dev/Career/nasa_water_loo/main.aux
-INPUT /home/dcard/Dev/Career/nasa_water_loo/main.out
-INPUT /home/dcard/Dev/Career/nasa_water_loo/main.out
-INPUT /home/dcard/Dev/Career/nasa_water_loo/main.run.xml
-OUTPUT /home/dcard/Dev/Career/nasa_water_loo/main.run.xml
-INPUT /usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-ts1.enc
-INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb
-INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb
-INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb
-INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb
-INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb
-INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb
-INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb
-INPUT /usr/share/texmf/fonts/type1/public/cm-super/sfrm0600.pfb
-INPUT /usr/share/texmf/fonts/type1/public/cm-super/sfrm0800.pfb
+PWD c:\Users\Drake\Documents\VS Code\Projects\NASA_Water_Loo\nasa_water_loo
+INPUT C:\Users\Drake\AppData\Local\MiKTeX\2.9\miktex\data\le\xetex\xelatex.fmt
+INPUT c:\Users\Drake\Documents\VS Code\Projects\NASA_Water_Loo\nasa_water_loo\main.tex
+OUTPUT main.log
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\base\book.cls
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\base\book.cls
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\base\bk11.clo
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\base\bk11.clo
+INPUT Format.sty
+INPUT Format.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\import\import.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\import\import.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\geometry-de\geometry.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\geometry-de\geometry.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\graphics\keyval.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\graphics\keyval.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\iftex\ifpdf.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\iftex\ifpdf.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\iftex\iftex.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\iftex\iftex.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\iftex\ifvtex.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\iftex\ifvtex.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\iftex\ifxetex.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\iftex\ifxetex.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\xelatex\xetexconfig\geometry.cfg
+INPUT C:\Program Files\MiKTeX 2.9\tex\xelatex\xetexconfig\geometry.cfg
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\xcolor\xcolor.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\xcolor\xcolor.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\graphics-cfg\color.cfg
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\graphics-cfg\color.cfg
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\graphics-def\xetex.def
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\graphics-def\xetex.def
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\fancyhdr\fancyhdr.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\fancyhdr\fancyhdr.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\tocloft\tocloft.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\tocloft\tocloft.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\caption\caption.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\caption\caption.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\caption\caption3.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\caption\caption3.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\wrapfig\wrapfig.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\wrapfig\wrapfig.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\footmisc\footmisc.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\footmisc\footmisc.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\enumitem\enumitem.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\enumitem\enumitem.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\setspace\setspace.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\setspace\setspace.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\caption\subcaption.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\caption\subcaption.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\mathtools\mathtools.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\mathtools\mathtools.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\tools\calc.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\tools\calc.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\mathtools\mhsetup.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\mathtools\mhsetup.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsmath.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsmath.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amstext.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amstext.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsgen.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsgen.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsbsy.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsbsy.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsopn.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsopn.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\hyperref.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\hyperref.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\pdftexcmds\pdftexcmds.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\pdftexcmds\pdftexcmds.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\infwarerr.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\infwarerr.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\kvsetkeys.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\kvsetkeys.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\etexcmds.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\etexcmds.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\iftex\ifluatex.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\iftex\ifluatex.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\kvdefinekeys.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\kvdefinekeys.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\pdfescape.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\pdfescape.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\hycolor.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\hycolor.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\xcolor-patch.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\xcolor-patch.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\hopatch.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\hopatch.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\letltxmacro.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\letltxmacro.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\auxhook.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\auxhook.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\kvoptions.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\kvoptions.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\pd1enc.def
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\pd1enc.def
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\intcalc.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\intcalc.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\00miktex\hyperref.cfg
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\00miktex\hyperref.cfg
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\url\url.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\url\url.sty
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\adobe\zapfding\pzdr.tfm
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\bitset.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\bitset.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\bigintcalc.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\bigintcalc.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\atbegshi.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\atbegshi.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\hxetex.def
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\hxetex.def
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\puenc.def
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\puenc.def
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\stringenc.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\stringenc.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\rerunfilecheck.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\rerunfilecheck.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\atveryend.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\atveryend.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\uniquecounter.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\uniquecounter.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\float\float.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\float\float.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\etoolbox\etoolbox.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\etoolbox\etoolbox.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\biblatex\biblatex.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\biblatex\biblatex.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\logreq\logreq.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\logreq\logreq.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\logreq\logreq.def
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\logreq\logreq.def
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\base\ifthen.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\base\ifthen.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\biblatex\blx-dm.def
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\biblatex\blx-dm.def
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\biblatex\blx-unicode.def
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\biblatex\blx-unicode.def
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\unicode-data\UnicodeData.txt
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\biblatex\blx-compat.def
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\biblatex\blx-compat.def
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\biblatex\biblatex.def
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\biblatex\biblatex.def
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\biblatex\bbx\numeric.bbx
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\biblatex\bbx\numeric.bbx
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\biblatex\bbx\standard.bbx
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\biblatex\bbx\standard.bbx
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\biblatex\cbx\numeric.cbx
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\biblatex\cbx\numeric.cbx
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\biblatex\biblatex.cfg
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\biblatex\biblatex.cfg
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphicx.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphicx.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphics.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphics.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\graphics\trig.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\graphics\trig.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\graphics-cfg\graphics.cfg
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\graphics-cfg\graphics.cfg
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\lipsum\lipsum.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\lipsum\lipsum.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\l3kernel\expl3.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\l3kernel\expl3.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\l3kernel\expl3-code.tex
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\l3kernel\expl3-code.tex
+INPUT .\nul:.tex
+INPUT .\nul:.tex
+INPUT .\nul:.tex
+INPUT .\nul:.tex
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\cm\cmr10.tfm
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\cm\cmr10.tfm
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\cm\cmr10.tfm
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\cm\cmr10.tfm
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\cm\cmr10.tfm
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\cm\cmr10.tfm
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\cm\cmr10.tfm
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\cm\cmr10.tfm
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\cm\cmr10.tfm
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\cm\cmr10.tfm
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\unicode-data\UnicodeData.txt
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\unicode-data\UnicodeData.txt
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\unicode-data\CaseFolding.txt
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\unicode-data\CaseFolding.txt
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\unicode-data\SpecialCasing.txt
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\unicode-data\SpecialCasing.txt
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\l3kernel\l3deprecation.def
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\l3kernel\l3deprecation.def
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\l3backend\l3backend-xdvipdfmx.def
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\l3backend\l3backend-xdvipdfmx.def
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\l3packages\xparse\xparse.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\l3packages\xparse\xparse.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\lipsum\lipsum.ltd.tex
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\lipsum\lipsum.ltd.tex
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\biblatex\lbx\english.lbx
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\biblatex\lbx\english.lbx
+INPUT main.aux
+INPUT main.aux
+OUTPUT main.aux
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\nameref.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\nameref.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\refcount.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\refcount.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\gettitlestring.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\gettitlestring.sty
+INPUT main.out
+INPUT main.out
+INPUT main.out
+INPUT main.out
+INPUT .\main.out
+INPUT .\main.out
+OUTPUT main.out
+OUTPUT main.bcf
+INPUT administrative\coverpage.tex
+INPUT administrative\coverpage.tex
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\cm\cmr10.tfm
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\cm\cmr8.tfm
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\cm\cmr6.tfm
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\cm\cmmi10.tfm
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\cm\cmmi8.tfm
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\cm\cmmi6.tfm
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\cm\cmsy10.tfm
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\cm\cmsy8.tfm
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\cm\cmsy6.tfm
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\cm\cmex10.tfm
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\amsfonts\cmextra\cmex8.tfm
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\amsfonts\cmextra\cmex7.tfm
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\cm\cmr9.tfm
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\cm\cmmi9.tfm
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\cm\cmsy9.tfm
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\amsfonts\cmextra\cmex9.tfm
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\amsfonts\cmextra\cmex7.tfm
+INPUT administrative\nasa-logo-web-rgb.png
+INPUT administrative\toc_page.tex
+INPUT administrative\toc_page.tex
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\se-ascii-print.def
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\se-ascii-print.def
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\se-ascii-print.def
+OUTPUT main.xdv
+INPUT main.toc
+INPUT main.toc
+OUTPUT main.toc
+INPUT main.lof
+INPUT main.lof
+OUTPUT main.lof
+INPUT rep\intro.tex
+INPUT rep\intro.tex
+INPUT figs\apollo_urine_bag.jpg
+INPUT figs\apollo_fecal_bag.jpg
+INPUT rep\challenge_overview.tex
+INPUT rep\challenge_overview.tex
+INPUT rep\challenge_submission.tex
+INPUT rep\challenge_submission.tex
+INPUT main.aux
+INPUT .\main.out
+INPUT .\main.out
+INPUT main.run.xml
+OUTPUT main.run.xml
