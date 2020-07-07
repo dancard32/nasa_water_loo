@@ -19,7 +19,91 @@
 
 \refsection{0}
   \datalist[entry]{nty/global//global/global}
-    \entry{iss_background}{article}{}
+    \entry{ref:soyuz_toilet}{article}{}
+      \name{author}{1}{}{%
+        {{hash=12ab6cbf43cf08d92720183772e8417e}{%
+           family={Anderson},
+           familyi={A\bibinitperiod},
+           given={Clayton\bibnamedelima C.},
+           giveni={C\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+      }
+      \strng{namehash}{12ab6cbf43cf08d92720183772e8417e}
+      \strng{fullhash}{12ab6cbf43cf08d92720183772e8417e}
+      \strng{bibnamehash}{12ab6cbf43cf08d92720183772e8417e}
+      \strng{authorbibnamehash}{12ab6cbf43cf08d92720183772e8417e}
+      \strng{authornamehash}{12ab6cbf43cf08d92720183772e8417e}
+      \strng{authorfullhash}{12ab6cbf43cf08d92720183772e8417e}
+      \field{sortinit}{A}
+      \field{sortinithash}{a3dcedd53b04d1adfd5ac303ecd5e6fa}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Where do Astronauts go to the Toilet in the Soyuz}
+      \field{year}{2017}
+    \endentry
+    \entry{ref:skylab_ref}{article}{}
+      \name{author}{1}{}{%
+        {{hash=b985bf75bda0389d676116adf5a17c90}{%
+           family={Brueck},
+           familyi={B\bibinitperiod},
+           given={Hillary},
+           giveni={H\bibinitperiod}}}%
+      }
+      \strng{namehash}{b985bf75bda0389d676116adf5a17c90}
+      \strng{fullhash}{b985bf75bda0389d676116adf5a17c90}
+      \strng{bibnamehash}{b985bf75bda0389d676116adf5a17c90}
+      \strng{authorbibnamehash}{b985bf75bda0389d676116adf5a17c90}
+      \strng{authornamehash}{b985bf75bda0389d676116adf5a17c90}
+      \strng{authorfullhash}{b985bf75bda0389d676116adf5a17c90}
+      \field{sortinit}{B}
+      \field{sortinithash}{8de16967003c7207dae369d874f1456e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{A Brief History of How Astronauts Have Gone to the Bathroom in Space for 58 Years}
+      \field{year}{2019}
+    \endentry
+    \entry{ref:iss_bathrrom}{article}{}
+      \name{author}{1}{}{%
+        {{hash=f0bcaae6734dac5a653e8003a611898c}{%
+           family={Harrington},
+           familyi={H\bibinitperiod},
+           given={Rebecca},
+           giveni={R\bibinitperiod}}}%
+      }
+      \strng{namehash}{f0bcaae6734dac5a653e8003a611898c}
+      \strng{fullhash}{f0bcaae6734dac5a653e8003a611898c}
+      \strng{bibnamehash}{f0bcaae6734dac5a653e8003a611898c}
+      \strng{authorbibnamehash}{f0bcaae6734dac5a653e8003a611898c}
+      \strng{authornamehash}{f0bcaae6734dac5a653e8003a611898c}
+      \strng{authorfullhash}{f0bcaae6734dac5a653e8003a611898c}
+      \field{sortinit}{H}
+      \field{sortinithash}{6db6145dae8dc9e1271a8d556090b50a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{How Astronauts go to the Bathroom in Space}
+      \field{year}{2016}
+    \endentry
+    \entry{ref:space_shuttle}{article}{}
+      \name{author}{1}{}{%
+        {{hash=4d45b45db216a9d03ecf6162ed3b04e5}{%
+           family={Japan\bibnamedelimb Aerospace\bibnamedelimb Exploration\bibnamedelima Agency},
+           familyi={J\bibinitperiod\bibinitdelim A\bibinitperiod\bibinitdelim E\bibinitperiod\bibinitdelim A\bibinitperiod},
+           given={JAXA},
+           giveni={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{4d45b45db216a9d03ecf6162ed3b04e5}
+      \strng{fullhash}{4d45b45db216a9d03ecf6162ed3b04e5}
+      \strng{bibnamehash}{4d45b45db216a9d03ecf6162ed3b04e5}
+      \strng{authorbibnamehash}{4d45b45db216a9d03ecf6162ed3b04e5}
+      \strng{authornamehash}{4d45b45db216a9d03ecf6162ed3b04e5}
+      \strng{authorfullhash}{4d45b45db216a9d03ecf6162ed3b04e5}
+      \field{sortinit}{J}
+      \field{sortinithash}{c45040a764d616897e7f5b30174d7b92}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{How do toilets work in space?}
+      \field{year}{2003}
+    \endentry
+    \entry{ref:iss_background}{article}{}
       \name{author}{1}{}{%
         {{hash=e3d9f4e056fb25c4423a696f6f6788f2}{%
            family={Mansfield},
@@ -41,7 +125,7 @@
       \field{title}{Behind The Scences}
       \field{year}{2008}
     \endentry
-    \entry{apollo_bathroom}{inbook}{}
+    \entry{ref:apollo_bathroom}{inbook}{}
       \name{author}{1}{}{%
         {{hash=0c553f67e1b42d245fbbe0eaa756c69d}{%
            family={Sauer},
